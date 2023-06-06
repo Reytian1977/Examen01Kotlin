@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SebastianCabrera</string>
+    <string name="Titre">Application de conversion de mesure</string>
+
+    <string-array name="SpinnerDe">
+        <item>Kilomètre</item>
+        <item>Mètre</item>
+        <item>Centimètre</item>
+        <item>Millemètre</item>
+    </string-array>
+
+    <string-array name="SpinnerA">
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Pied</item>
+        <item>Pouce</item>
+    </string-array>
+
+    <string name="ZoneText">Saisir la distance à convertir</string>
+
+    <string name="CheckBoxText">Ajouter l\'opération à la liste</string>
+</resources>
